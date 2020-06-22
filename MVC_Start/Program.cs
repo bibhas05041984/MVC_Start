@@ -16,6 +16,7 @@ namespace MVC_Start
     {
       BuildWebHost(args).Run();
     }
+// Leaving a comment here on Bibas's GitHub - :) *CHEERS!!!* 
 
     public static IWebHost BuildWebHost(string[] args) =>
         WebHost.CreateDefaultBuilder(args)
